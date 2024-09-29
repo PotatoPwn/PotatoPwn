@@ -5,5 +5,6 @@
 - C++
 
 ## Working on
-- Windows Kernel Development
-- VMP 3 Research
+- VMP 3 Research / Devirtualization
+- General Windows System Researching
+- Researching AntiCheat Capabilities
